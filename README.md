@@ -1,4 +1,6 @@
-Final Year Project - Catalin The project aims to develop an interactive F1 data analytics dashboard using Python (Streamlit), ErgastAPI and local CSV files.
+Final Year Project - Catalin 
 
-The python File is labled "firstf1.py"
+This project is an interactive F1 data analytics dashboard using Python (Streamlit), ErgastAPI and local CSV files.
+
+
 
